@@ -1,3 +1,7 @@
+/* if the sum of all factors of a given number except the given number, then it is known as Perfect number. */
+// 6 = 1+2+3 =6
+
+
 #include <stdio.h>
 #include<math.h>
 int factor(int n)
