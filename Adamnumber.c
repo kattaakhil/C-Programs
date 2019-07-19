@@ -1,3 +1,7 @@
+// Given two numbers a and b, calculate a_factors_sum, b_factors_sum
+//a_factors_sum=b and b_factors_sum=a
+//then they are called Amicable Numbers.
+
 #include <stdio.h>
 #include<math.h>
 int rev(int n)
