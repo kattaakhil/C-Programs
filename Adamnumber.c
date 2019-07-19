@@ -1,6 +1,4 @@
-// Given two numbers a and b, calculate a_factors_sum, b_factors_sum
-//a_factors_sum=b and b_factors_sum=a
-//then they are called Amicable Numbers.
+// 12 -> 144 -> 441 -> sqrt(441) -> 21 ->12
 
 #include <stdio.h>
 #include<math.h>
