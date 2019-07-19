@@ -1,3 +1,5 @@
+/*if the sum of all factors of a number except that number is greater than or equal to that number then it is known as Abundant Number.*/
+
 #include <stdio.h>
 #include<math.h>
 int factor(int n)
