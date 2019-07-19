@@ -1,3 +1,7 @@
+/* if the number is splitted into bits and calculate the factorial of each bit and add them,
+then the sum is equal to n then it is known as Strong Number. */
+// 145 = 1! + 4! + 5! = 145
+
 #include <stdio.h>
 #include<math.h>
 int fact(int n)
